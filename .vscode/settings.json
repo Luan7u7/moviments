@@ -1,0 +1,9 @@
+{
+  "editor.wordWrap": "bounded",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "notebook.formatOnSave.enabled": true,
+  "editor.formatOnSave": true,
+  "files.autoSaveDelay": 100,
+  "files.autoSave": "onFocusChange",
+}
